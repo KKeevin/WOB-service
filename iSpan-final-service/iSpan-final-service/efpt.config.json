@@ -1,0 +1,141 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "WOBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "iSpan_final_service",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Area]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Article]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Award]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[backgroundManagement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Board]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Brand]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Calendar]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChatRoom]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Class]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[County]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Equipment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FavoriteBoard]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Gym]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GymOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GymOrderEquipment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Inbody]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[License]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Match]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Member]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Notice]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Order]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Reply]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Score]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SurviceArea]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "wob-server.WOB",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

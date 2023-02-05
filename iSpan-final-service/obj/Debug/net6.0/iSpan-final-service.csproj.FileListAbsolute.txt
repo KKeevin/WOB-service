@@ -1,0 +1,7 @@
+E:\user\MOMO\Documents\GitHub\iSpan-final-service\iSpan-final-service\obj\Debug\net6.0\iSpan-final-service.csproj.AssemblyReference.cache
+E:\user\MOMO\Documents\GitHub\iSpan-final-service\iSpan-final-service\obj\Debug\net6.0\iSpan-final-service.GeneratedMSBuildEditorConfig.editorconfig
+E:\user\MOMO\Documents\GitHub\iSpan-final-service\iSpan-final-service\obj\Debug\net6.0\iSpan-final-service.AssemblyInfoInputs.cache
+E:\user\MOMO\Documents\GitHub\iSpan-final-service\iSpan-final-service\obj\Debug\net6.0\iSpan-final-service.AssemblyInfo.cs
+E:\user\MOMO\Documents\GitHub\iSpan-final-service\iSpan-final-service\obj\Debug\net6.0\iSpan-final-service.csproj.CoreCompileInputs.cache
+E:\user\MOMO\Documents\GitHub\iSpan-final-service\iSpan-final-service\obj\Debug\net6.0\iSpan-final-service.MvcApplicationPartsAssemblyInfo.cs
+E:\user\MOMO\Documents\GitHub\iSpan-final-service\iSpan-final-service\obj\Debug\net6.0\iSpan-final-service.MvcApplicationPartsAssemblyInfo.cache
